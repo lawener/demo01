@@ -205,10 +205,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="484" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1589609617718" />
-    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1590994587846">
+    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1590995688010">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590994587846" />
+    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590995688010" />
+    <state x="81" y="55" key="DiffContextDialog" timestamp="1590995739293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="81" y="55" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1590995739293" />
     <state x="483" y="138" key="FileChooserDialogImpl" timestamp="1590994035833">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -249,6 +253,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589623199375" />
+    <state x="561" y="119" key="RollbackChangesDialog" timestamp="1590995740807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="119" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590995740807" />
     <state x="270" y="54" key="SettingsEditor" timestamp="1589609708697">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -261,10 +269,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="485" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1589610720584" />
-    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590995646205">
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590995691584">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1590995646205" />
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1590995691584" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589614038415">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
