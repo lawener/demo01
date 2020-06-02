@@ -9,7 +9,5 @@ public class demo01 {
         Scanner scannerUsername= new Scanner(System.in);
         String next = scannerUsername.next();
         System.out.println(next);
-
-
     }
 }
