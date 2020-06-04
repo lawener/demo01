@@ -22,8 +22,6 @@ public class JDBCUtils {
         }
         username = pro.getProperty("username");
         password = pro.getProperty("password");
-        System.out.println(username);
-        System.out.println(password);
         try {
             conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/test",username,password);
         } catch (SQLException e) {
@@ -39,7 +37,7 @@ public class JDBCUtils {
 
     }
 
-    public void close(Statement statement,Connection conn){
+    public static void close(Statement statement,Connection conn){
         try {
             statement.close();
             conn.close();
@@ -49,7 +47,7 @@ public class JDBCUtils {
     }
 
 
-    public void close(ResultSet res,Statement statement,Connection conn){
+    public static void close(ResultSet res,Statement statement,Connection conn){
         try {
             res.close();
         } catch (SQLException e) {

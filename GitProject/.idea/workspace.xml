@@ -1,51 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d10f5a-7291-46f5-a18e-593d18fd1cc6" name="Default Changelist" comment="add all">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="95d10f5a-7291-46f5-a18e-593d18fd1cc6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lawener/study/JDBCUtils_Druid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GitProject/com/lawener/study/JDBCUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitProject/com/lawener/study/JDBCUtils.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/lawener/study/JDBCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lawener/study/JDBCTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/lawener/study/JDBCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lawener/study/JDBCUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mysql_conector.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/mysql.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/libraries/lib__2_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/libraries/lib__3_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/libraries/lib__4_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/libraries/lib__5_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/out/production/test/c3p0.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/out/production/test/com/lawener/dataSource/DruidUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/out/production/test/com/lawener/dataSource/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/out/production/test/com/lawener/dataSource/c3p0_utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/out/production/test/com/lawener/jdbc_utils/JDBCUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/out/production/test/com/lawener/jdbc_utils/demo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/out/production/test/com/lawener/jdbc_utils/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/out/production/test/druid.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/out/production/test/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/out/production/test/lib/c3p0-0.9.5.5-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/out/production/test/lib/druid-1.1.22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/out/production/test/lib/mchange-commons-java-0.2.19-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/out/production/test/lib/mysql-connector-java-8.0.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/c3p0.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/com/lawener/dataSource/DruidUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/com/lawener/dataSource/MainTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/com/lawener/dataSource/c3p0_utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/com/lawener/jdbc_utils/JDBCUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/com/lawener/jdbc_utils/demo01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/com/lawener/jdbc_utils/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/druid.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/lib/c3p0-0.9.5.5-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/lib/druid-1.1.22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/lib/mchange-commons-java-0.2.19-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/lib/mysql-connector-java-8.0.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/test.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +74,7 @@
       <recent name="E:\Java_WorkSpace\GitProject\src\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.JDBCTest.QueryTest">
+  <component name="RunManager" selected="JUnit.JDBCTest.test_Druid">
     <configuration name="JDBCUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lawener.study.JDBCUtils" />
       <module name="GitProject" />
@@ -137,6 +99,22 @@
       <option name="PACKAGE_NAME" value="com.lawener.study" />
       <option name="MAIN_CLASS_NAME" value="com.lawener.study.JDBCTest" />
       <option name="METHOD_NAME" value="QueryTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCTest.test_Druid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GitProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lawener.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lawener.study" />
+      <option name="MAIN_CLASS_NAME" value="com.lawener.study.JDBCTest" />
+      <option name="METHOD_NAME" value="test_Druid" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -206,6 +184,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JDBCTest.test_Druid" />
         <item itemvalue="JUnit.JDBCTest.QueryTest" />
         <item itemvalue="Application.JDBCUtils" />
       </list>
@@ -235,7 +214,7 @@
       <updated>1591268501810</updated>
       <workItem from="1591268505513" duration="2505000" />
       <workItem from="1591274400764" duration="2428000" />
-      <workItem from="1591280224017" duration="645000" />
+      <workItem from="1591280224017" duration="3359000" />
     </task>
     <task id="LOCAL-00001" summary="hello world">
       <created>1591268612449</created>
@@ -258,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591269829743</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="JDBCUtils success">
+      <created>1591281049685</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591281049685</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +254,8 @@
     <MESSAGE value="hello world" />
     <MESSAGE value="12" />
     <MESSAGE value="add all" />
-    <option name="LAST_COMMIT_MESSAGE" value="add all" />
+    <MESSAGE value="JDBCUtils success" />
+    <option name="LAST_COMMIT_MESSAGE" value="JDBCUtils success" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Project_Structure" timestamp="1591268517545">
@@ -287,9 +274,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="589" y="178" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1920.1040@0.0.1920.1040" timestamp="1591271977881" />
-    <state x="560" y="112" key="CommitChangelistDialog2" timestamp="1591269898229">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="448" y="9" key="CommitChangelistDialog2" timestamp="1591281047758">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="448" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591281047758" />
     <state x="560" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591269898229" />
     <state x="184" y="92" key="DiffContextDialog" timestamp="1591269895774">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -299,33 +287,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591272299540" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1591281003956">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1591284831559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591281003956" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591284831559" />
     <state width="705" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591272307630" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1591281003956">
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1591284831559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591281003956" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591284831559" />
     <state width="705" height="307" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591272307630" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1591281003956">
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1591284831559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591281003956" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591284831559" />
     <state width="705" height="307" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591272307630" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1591281003956">
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1591284831559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591281003956" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591284831559" />
     <state width="705" height="307" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591272307630" />
     <state x="270" y="54" key="SettingsEditor" timestamp="1591280267034">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591280267034" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1591269920212">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1591281080053">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591281080053" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591269920212" />
     <state x="696" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591274505501">
       <screen x="0" y="0" width="1920" height="1040" />
