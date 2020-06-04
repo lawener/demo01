@@ -13,7 +13,7 @@ public class JDBCUtils {
 
     static{
         ClassLoader classLoader = JDBCUtils.class.getClassLoader();
-        InputStream iso = classLoader.getResourceAsStream("mysql_connector.properties");
+        InputStream iso = classLoader.getResourceAsStream("mysql.properties");
         Properties pro = new Properties();
         try {
             pro.load(iso);
@@ -22,8 +22,10 @@ public class JDBCUtils {
         }
         username = pro.getProperty("username");
         password = pro.getProperty("password");
+        System.out.println(username);
+        System.out.println(password);
         try {
-            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306");
+            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/test",username,password);
         } catch (SQLException e) {
             e.printStackTrace();
         }
@@ -31,7 +33,7 @@ public class JDBCUtils {
 
     }
 
-    public Connection getConnection(){
+    public static Connection getConnection(){
 
         return conn;
 
