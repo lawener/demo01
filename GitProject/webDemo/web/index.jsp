@@ -9,6 +9,7 @@
 <html>
   <head>
     <title>$Title$</title>
+    <span>123</span>
   </head>
   <body>
   $END$
