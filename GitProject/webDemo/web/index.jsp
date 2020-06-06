@@ -9,9 +9,14 @@
 <html>
   <head>
     <title>$Title$</title>
-    <span>123</span>
+
   </head>
   <body>
-  $END$
+  <form method="post" action="./loginServlet">
+    用户名：<input type="text" name="username"><br>
+    密码：<input type="password" name="password">
+    <input type="submit">
+  </form>
+
   </body>
 </html>
